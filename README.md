@@ -1,0 +1,2 @@
+# skripsi
+Centainty Factor
